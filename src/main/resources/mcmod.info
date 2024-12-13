@@ -1,0 +1,16 @@
+[
+{
+  "modid": "gtimer",
+  "name": "Timer Mod",
+  "description": "Geullo Timer mod.",
+  "version": "0.0.1",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Geullo"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
